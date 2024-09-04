@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+scipy
+itertools
+nltk
+wordcloud
